@@ -1,5 +1,5 @@
 import "./App.css";
-import { RatingsTable } from "./Components/CharacterRatingsTable";
+import { RatingsTable } from "./Components/RatingsTable";
 import { Header } from "./Components/Header";
 import { data } from "./fma-data";
 import { CardsTable } from "./Components/CardsTable";
